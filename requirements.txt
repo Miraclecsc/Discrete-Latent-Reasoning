@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers>=4.57.6
+datasets>=3.0.0
+accelerate>=1.4.0
+deepspeed>=0.14.4
+safetensors
+Pillow
+tqdm
+numpy
+scipy
+unsloth

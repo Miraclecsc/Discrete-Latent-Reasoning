@@ -1,0 +1,29 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+.DS_Store
+
+# Local data, checkpoints, and generated outputs
+data/
+models/
+outputs/
+checkpoints/
+runs/
+wandb/
+latent_eval_runs*/
+direct_answer_eval_runs/
+
+# Large model/data artifacts
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.parquet
+*.jsonl
+*.arrow
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
