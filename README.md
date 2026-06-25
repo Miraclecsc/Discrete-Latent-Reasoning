@@ -1,4 +1,4 @@
-# Discrete Latent Reasoning
+# Discrete Latent Reasoning 
 
 This repository contains the open training code for **Discrete Latent Reasoning (DLR)**, organized from the submission *Why Struggle with Continuous Latents? Interpretable Discrete Latent Reasoning via Rendered Compression*.
 
